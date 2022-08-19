@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Editor/x64/Bakery/.ftracelog.txt
+Assets/Editor/x64/Bakery/cudnn64_7.dll
+Assets/Editor/x64/Bakery/cudnn64_7.dll.meta
+Assets/factory/LightingData.asset
+Assets/factory/LightingData.asset.meta
+AssetBundles/factory/leveldata
