@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/ammo_box/Models/Materials/New Material.mat.meta
+guid: 40980e6c442d44445b96e48a2619ed2f
+timeCreated: 1632247412
+========
+guid: 0496e39bbe774404b8bbdcc7493dfb53
+timeCreated: 1606154488
+>>>>>>>> parent of 2af7c39 (Update to 1.1):Assets/Materials/Gray.mat.meta
+licenseType: Free
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
