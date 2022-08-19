@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 guid: 6ec0a4ca42448ce4089ab5814cfd1753
+<<<<<<< HEAD
+timeCreated: 1632927085
+=======
 timeCreated: 1612931947
+>>>>>>> parent of 2af7c39 (Update to 1.1)
 licenseType: Free
 NativeFormatImporter:
   mainObjectFileID: 23800000

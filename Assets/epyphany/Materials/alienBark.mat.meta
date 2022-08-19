@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/ammo_box/Materials/Ammo_box.mat.meta
+guid: 8a61a31da122a454d94aac8c1f8edab5
+timeCreated: 1498151848
+========
 guid: a1aee91242372f64793af5a6bd07aa0d
 timeCreated: 1442419002
+>>>>>>>> parent of 2af7c39 (Update to 1.1):Assets/epyphany/Materials/alienBark.mat.meta
 licenseType: Store
 NativeFormatImporter:
   userData: 
